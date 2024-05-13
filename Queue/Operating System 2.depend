@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703333107 source:a:\work\z - project\operating system 2\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<random>
+	<ctime>
+	<algorithm>
+

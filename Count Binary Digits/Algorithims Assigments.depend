@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703580479 source:a:\work\z - project\algorithims assigments\main.cpp
+	<iostream>
+	<chrono>
+

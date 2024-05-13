@@ -1,0 +1,4 @@
+﻿  FCFS.OS.cpp
+C:\Users\BluRay\source\repos\FCFS.OS\FCFS.OS\FCFS.OS.cpp(30,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\BluRay\source\repos\FCFS.OS\FCFS.OS\FCFS.OS.cpp(32,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  FCFS.OS.vcxproj -> C:\Users\BluRay\source\repos\FCFS.OS\x64\Debug\FCFS.OS.exe
