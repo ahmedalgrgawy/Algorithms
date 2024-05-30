@@ -6,4 +6,4 @@
 
 - Code examples demonstrating how to implement algorithms in different programming languages.
 
-<h3 align="center">You Can Contribute In The Repo With More Algorithms or Data structures implemention and Any CS Topics</h3>
+<h1 align="center">You Can Contribute In The Repo With More Algorithms or Data structures implemention and Any CS Topics</h1>
