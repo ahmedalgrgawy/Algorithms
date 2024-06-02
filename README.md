@@ -1,5 +1,3 @@
-# Hi 👋, I'm Ahmed Algrgawy
-
 <h1 align="center">Algorithms & Computer Science Material</h1>
 
 - Lecture notes from university courses on algorithms, data structures, and other core CS topics.
